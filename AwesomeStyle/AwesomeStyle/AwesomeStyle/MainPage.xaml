@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AwesomeStyle.MainPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary>
+                <OnPlatform x:TypeArguments="x:String" 
+                x:Key="Brands">
+                    <On Platform="Android" 
+          Value="BrandsRegular400.otf#Regular" />
+                    <On Platform="iOS" 
+          Value="BrandsRegular400" />
+                    <On Platform="UWP" 
+          Value="/Assets/BrandsRegular400.otf#Font Awesome 5 Brands" />
+                </OnPlatform>
+
+                <OnPlatform x:TypeArguments="x:String" 
+                x:Key="Solid">
+                    <On Platform="Android" 
+          Value="Solid900.otf#Regular" />
+                    <On Platform="iOS" 
+          Value="Solid900" />
+                    <On Platform="UWP" 
+          Value="/Assets/Solid900.otf#Solid900" />
+                </OnPlatform>
+
+                <OnPlatform x:TypeArguments="x:String" 
+                x:Key="Regular">
+                    <On Platform="Android" 
+          Value="Regular400#Regular" />
+                    <On Platform="iOS" 
+          Value="Regular400" />
+                    <On Platform="UWP" 
+          Value="/Assets/Regular400.otf#Regular400" />
+                </OnPlatform>
+
+
+                <Style TargetType="Label">
+                    <Setter Property="FontFamily" Value="{StaticResource Brands}" />
+                    <Setter Property="FontSize" Value="Large" />
+                </Style>
+
+            </ResourceDictionary>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    <StackLayout>
+        <Label Text="&#xf17a;" 
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"/>
+        <Label Text="&#xf17b;" 
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"/>
+        <Label Text="&#xf179;" 
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"/>
+    </StackLayout>
+
+</ContentPage>

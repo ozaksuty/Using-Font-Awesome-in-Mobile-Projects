@@ -1,0 +1,12 @@
+C:\Users\Yigit\source\repos\AwesomeStyle\AwesomeStyle\AwesomeStyle\bin\Debug\netstandard2.0\AwesomeStyle.deps.json
+C:\Users\Yigit\source\repos\AwesomeStyle\AwesomeStyle\AwesomeStyle\bin\Debug\netstandard2.0\AwesomeStyle.dll
+C:\Users\Yigit\source\repos\AwesomeStyle\AwesomeStyle\AwesomeStyle\bin\Debug\netstandard2.0\AwesomeStyle.pdb
+C:\Users\Yigit\source\repos\AwesomeStyle\AwesomeStyle\AwesomeStyle\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Yigit\source\repos\AwesomeStyle\AwesomeStyle\AwesomeStyle\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Yigit\source\repos\AwesomeStyle\AwesomeStyle\AwesomeStyle\obj\Debug\netstandard2.0\AwesomeStyle.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\source\repos\AwesomeStyle\AwesomeStyle\AwesomeStyle\obj\Debug\netstandard2.0\AwesomeStyle.AssemblyInfoInputs.cache
+C:\Users\Yigit\source\repos\AwesomeStyle\AwesomeStyle\AwesomeStyle\obj\Debug\netstandard2.0\AwesomeStyle.AssemblyInfo.cs
+C:\Users\Yigit\source\repos\AwesomeStyle\AwesomeStyle\AwesomeStyle\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Yigit\source\repos\AwesomeStyle\AwesomeStyle\AwesomeStyle\obj\Debug\netstandard2.0\AwesomeStyle.dll
+C:\Users\Yigit\source\repos\AwesomeStyle\AwesomeStyle\AwesomeStyle\obj\Debug\netstandard2.0\AwesomeStyle.pdb
+C:\Users\Yigit\source\repos\AwesomeStyle\AwesomeStyle\AwesomeStyle\obj\Debug\netstandard2.0\AwesomeStyle.csprojAssemblyReference.cache
